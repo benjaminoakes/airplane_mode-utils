@@ -1,0 +1,6 @@
+[submodule "jshint"]
+	path = jshint
+	url = git://github.com/jshint/site.git
+[submodule "showdown"]
+	path = showdown
+	url = git://github.com/coreyti/showdown.git
